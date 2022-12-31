@@ -1,5 +1,7 @@
 # Angular-Arquitetura_Master_Detail
- Project angular visando menor repetição de código e uso de boas práticas.
+ Project angular visando menor repetição de código e uso de boas práticas.<br>
+ 
+ # ng new finansys --routing --skip-tests
  
  # Dependências
  npm i bootstrap jquery –save //boostrap e jquery
