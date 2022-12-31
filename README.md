@@ -3,6 +3,7 @@
  
  # Dependências
  npm i bootstrap jquery –save //boostrap e jquery
+ <br>
 npm i angular-imask –save //para usar máscaras
 npm i currency-formatter –save //formatar moeda
 npm i moment –save //Trabalhar com datas
